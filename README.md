@@ -17,8 +17,10 @@
 ---
 
 ## 📸 Screenshot (專案截圖)
-*(專案實際運行畫面，展示深色模式與動態天氣動畫)*
-![Project Screenshot](./public/screenshot.png)
+
+這是我們專案的實際運行畫面，展示了深色模式與即時天氣資訊：
+
+![Project Screenshot](public/screenshot.png)
 
 ---
 
