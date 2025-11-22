@@ -18,8 +18,7 @@
 
 ## 📸 Screenshot (專案截圖)
 *(專案實際運行畫面，展示深色模式與動態天氣動畫)*
-<img src="https://cloud-computing-weather-app.vercel.app/opengraph-image.png" alt="Weather App Screenshot" width="100%" />
-*(註：如果上方沒顯示圖片，這是預設的預覽圖)*
+![Project Screenshot](./public/screenshot.png)
 
 ---
 
